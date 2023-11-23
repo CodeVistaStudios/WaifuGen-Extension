@@ -2,6 +2,7 @@
 
 The WaifuGen Extension allows you to integrate a Waifu image generator into your MIT App Inventor or Kodular app. Fetch vibrant Waifu images based on specific tags such as maid, waifu, marin-kitagawa, mori-calliope, and more. This extension offers a straightforward and efficient method to incorporate anime-style images, adding an engaging visual element to your application.
 
+
 ## Key Features:
 
 
@@ -10,14 +11,12 @@ The WaifuGen Extension allows you to integrate a Waifu image generator into your
 ![Generate Waifu Images](https://raw.githubusercontent.com/CodeVistaStudios/WaifuGen-Extension/main/Image/GenerateWaifuImages.png)
 
    - Specify tags like maid, waifu, marin-kitagawa, etc., to dynamically generate Waifu images.
-
   
 2. **Retrieve Image Details:**
 
 ![Retrieve Image Details Images](https://raw.githubusercontent.com/CodeVistaStudios/WaifuGen-Extension/main/Image/RetrieveImageDetails.png)
 
    - Access detailed information about the generated images, including URL, favorites, dominant color, and source.
-
   
 3. **Error Handling:**
 
@@ -26,6 +25,7 @@ The WaifuGen Extension allows you to integrate a Waifu image generator into your
    - Gracefully handle errors with customizable error messages, ensuring a smooth user experience.
 
 ## Usage Instructions:
+
 
 1. **Import Extension:**
    - Import the WaifuGen Extension into your MIT App Inventor or Kodular project.
@@ -56,7 +56,45 @@ The WaifuGen Extension allows you to integrate a Waifu image generator into your
 
 10. **Customization:**
     - Customize the extension's behavior and appearance to suit your app's requirements.
-  
+
+
+### Supported Tags:
+
+1. **VERSATILE:**
+   - maid
+   - waifu
+   - marin-kitagawa
+   - mori-calliope
+   - raiden-shogun
+   - oppai
+   - selfies
+   - uniform
+
+2. **NSFW:**
+   - ass
+   - hentai
+   - milf
+   - oral
+   - paizuri
+   - ecchi
+   - ero
+
+
+### Extension Details:
+
+- **Name:** WaifuGen Extension
+- **Release Date:** 23 Nov, 2023
+- **Update Date:** 23 Nov, 2023
+- **Size:** 8.50 kb
+- **Extension Version:** 1.0
+
+### Download Links:
+
+- [WaifuGen Extension (.aix)](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Aix/WaifuGenV1.aix)
+- [WaifuGen Extension AIA Example](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Aia/WaifuGenV1.aia)
+- [Test APK](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Apk/WaifuGenV1.apk)
+
+
 
 ## Contribution
 
