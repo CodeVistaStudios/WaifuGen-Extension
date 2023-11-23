@@ -90,9 +90,9 @@ The WaifuGen Extension allows you to integrate a Waifu image generator into your
 
 ### Download Links:
 
-- [WaifuGen Extension (.aix)](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Aix/WaifuGenV1.aix)
-- [WaifuGen Extension AIA Example](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Aia/WaifuGenV1.aia)
-- [Test APK](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Apk/WaifuGenV1.apk)
+- [WaifuGen Extension AIX](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Aix/WaifuGenV1.aix)
+- [WaifuGen Extension AIA](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Aia/WaifuGenV1.aia)
+- [WaifuGen Extension APK](https://github.com/CodeVistaStudios/WaifuGen-Extension/raw/main/Apk/WaifuGenV1.apk)
 
 
 
