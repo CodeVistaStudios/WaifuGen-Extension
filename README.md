@@ -107,6 +107,11 @@ Certainly! Here is a more detailed list of supported tags:
 - **ecchi:** Anime or manga-style content with sexual themes, less explicit than hentai.
 - **ero:** General term for erotic or sexually explicit content.
 
+For a visual guide, refer to this demonstration video:
+
+[![Video Demonstration](https://raw.githubusercontent.com/CodeVistaStudios/WaifuGen-Extension/main/Video/MainFV1.gif)](https://raw.githubusercontent.com/CodeVistaStudios/WaifuGen-Extension/main/Video/MainFV1.gif)
+  
+
 **Note:** Use these tags responsibly, considering the nature of the content, and ensure compliance with relevant guidelines and regulations.
 
 
