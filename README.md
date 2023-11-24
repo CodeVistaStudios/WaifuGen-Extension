@@ -2,6 +2,8 @@
 
 The WaifuGen Extension allows you to integrate a Waifu image generator into your MIT App Inventor or Kodular app. Fetch vibrant Waifu images based on specific tags such as maid, waifu, marin-kitagawa, mori-calliope, and more. This extension offers a straightforward and efficient method to incorporate anime-style images, adding an engaging visual element to your application.
 
+![Main Images](https://raw.githubusercontent.com/CodeVistaStudios/WaifuGen-Extension/main/Image/Main.jpg)
+
 
 ## Key Features:
 
